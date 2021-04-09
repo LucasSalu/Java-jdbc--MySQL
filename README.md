@@ -1,2 +1,3 @@
 # Java-jdbc--MySQL
-API jdbc 
+Um CRUD Utilizando a API JDBC para comunicação com banco de dados MySQL
+
